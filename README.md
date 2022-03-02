@@ -1,4 +1,4 @@
-[some notes](./notes)
+[some notes](./notes.md)
 
 # Angular Production Course
 
