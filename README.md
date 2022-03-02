@@ -1,3 +1,5 @@
+[some notes](./notes)
+
 # Angular Production Course
 
 ![Angular Production Course App](apps/dashboard/src/assets/screenshots/app.png)
